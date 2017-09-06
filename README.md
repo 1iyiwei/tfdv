@@ -23,5 +23,5 @@ We demonstrate the power of our design system with applications in solid texturi
 <!--
 [[paper](https://doi.org/10.1145/3130800.3130844)]
 -->
-[[brief](http://www.liyiwei.org/papers/texture-siga16/tfdv_siga16.pdf)]
+[[brief](https://www.researchgate.net/publication/311097782_Tensor_field_design_in_volumes)]
 [[video (youtube)](https://youtu.be/n_SkJSiJLf4)]
