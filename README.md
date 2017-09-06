@@ -4,7 +4,7 @@ Jonathan Palacios,  Lawrence Roy,  Prashant Kumar,  Chen-Yuan Hsu,  Weikai Chen,
 
 SIGGRAPH Asia 2017
 
-<img src="./images/0_David_After_Edit.png" width=40%><img src="./images/Topological_Editing_1_Noodles_After.png" width=40%>
+<img src="./images/1_David_After_Edit.png" width=40%><img src="./images/Topological_Editing_1_Noodles_After.png" width=40%>
 
 <p>
 
